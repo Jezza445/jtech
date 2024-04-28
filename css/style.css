@@ -1,0 +1,120 @@
+body{
+margin:0
+
+}
+
+body{
+  background-image: url(../images/alex1l.jpg);
+  background-color: #074f57;
+  background-repeat: no-repeat;
+}
+
+.hero{
+  background-color: #074f57;
+  background-image: url('');
+  background-size: cover;
+
+}
+
+.container{
+max-width: 960;
+margin-left: auto;
+margin-right: auto;
+padding-left: 1rem;
+padding-right: 1rem;
+}
+
+
+h1{
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  display: flexbox;
+  
+}
+
+h1 {
+  font-size: 40px;
+  margin-top: 0;
+  margin-bottom: 15px;
+}
+
+
+h2 {
+  font-size: 30px;
+}
+
+
+
+h1, h2, p {
+  text-align: center;
+}
+
+.established {
+  font-style: italic;
+}
+
+.menu {
+  width: 80%;
+  background-color: rgb(65, 220, 247);
+  margin-left: auto;
+  margin-right: auto;
+  padding: 20px;
+  max-width: 500px;
+}
+
+hr {
+  height: 2px;
+  background-color: rgb(75, 59, 247);
+  border-color: rgb(46, 42, 165);
+}
+
+
+
+
+footer {
+  font-size: 14px;
+}
+
+.address {
+  margin-bottom: 5px;
+}
+
+a {
+  color: rgb(0, 0, 0);
+}
+
+a:visited {
+  color: black;
+}
+
+a:hover {
+  color: rgb(244, 4, 4);
+}
+
+a:active {
+  color: rgb(247, 5, 5);
+}
+
+
+.item p {
+  display: inline-block;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  font-size: 18px;
+}
+
+
+
+
+.flavor, .dessert {
+  text-align: left;
+  width: 75%;
+}
+
+.price {
+  text-align: right;
+  width: 25%;
+}
+
+h2{
+  text-decoration: underline;
+}
